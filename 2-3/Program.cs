@@ -1,6 +1,6 @@
 ﻿//Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
 
-Console.WriteLine ("This Program Help you find out if this day is a day off");
+Console.WriteLine ("This Program Help you find out if this day is a day off,or not.Enjoy.");
 int num1 = 0;
 Console.WriteLine("Enter weekday number: ");
 int num = Convert.ToInt32(Console.ReadLine());
