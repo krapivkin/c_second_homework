@@ -11,7 +11,7 @@ int num = Convert.ToInt32(Console.ReadLine());
 }
     else if (num <1||num >5)
 {
-    Console.WriteLine("Enter number from 1 to 7");
+    Console.WriteLine("Enter number between 1 to 7");
 }
     else  
 {
